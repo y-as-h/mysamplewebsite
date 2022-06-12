@@ -189,6 +189,10 @@ div {
 
     .content {
         padding-top: 300px;
+        min-width:0px;
+    }
+    .content-body {
+        min-width: 0px;
     }
     
     #left {
@@ -200,6 +204,10 @@ div {
     }
     #right {
         width: 100%;
+    }
+    .footer {
+        min-width: 0px;
+        
     }
     .footer span {
         font-size: 40px;
